@@ -1,0 +1,1 @@
+int run(long int array_size, int num_threads);
