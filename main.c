@@ -1,4 +1,5 @@
-#include "alg_one.h"
+//#include "alg_one.h"
+#include "alg_two.h"
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -15,7 +16,8 @@ int main(int argc, char* argv[])
     int num_buckets = atoi(argv[3]);
     int debug = atoi(argv[4]);
 
-    run(array_size, num_threads, num_buckets, debug);
+    //run(array_size, num_threads, num_buckets, debug);
+    run_two(array_size, num_threads, num_buckets);
 
     // int start = 0;
     // int end = 99;
