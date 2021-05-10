@@ -1,1 +1,1 @@
-int run(long int array_size, int num_threads);
+int run(long array_size, int num_threads, int bucket_per_thread, int debug);
