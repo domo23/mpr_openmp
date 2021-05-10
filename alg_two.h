@@ -1,0 +1,1 @@
+void run_two(long int array_size, int num_threads, int bucket_per_thread);

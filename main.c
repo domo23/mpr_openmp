@@ -1,4 +1,4 @@
-//#include "alg_one.h"
+#include "alg_one.h"
 #include "alg_two.h"
 #include <stdio.h>
 #include <stdlib.h>
